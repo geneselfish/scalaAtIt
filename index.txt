@@ -1,0 +1,46 @@
+http://www.atmarkit.co.jp/fjava/index/index_scala.html
+scalaAtItプロジェクト
+ chap2
+   Sect1
+   　型推論
+   　エスケープシーケンス
+   　シンボルリテラル
+   Sect2
+   　配列　「Array」クラス
+   　演算子　
+ chap3
+   Sect1
+   　コレクション　List、Map、Tuple
+   Sect2
+   　制御構造
+   　　・if
+   　　・繰り返し「for」　
+   　　　　forのフィルタ
+   　　　　「yield」を使用して新しいコレクションを生成
+   　　・例外処理
+  chap4
+    Sect1
+    　パターンマッチ　パターンガード
+    Sect2
+    　関数
+    　関数リテラル
+    　プレイスホルダによる引数の簡略化
+    　高階関数
+    Sect3
+    　関数の引数を固定しない「可変長引数」
+    　デフォルト引数
+    　プレイスホルダ構文
+    　関数の中で関数を定義する「ローカル関数」
+   
+ chap5_2
+   　コンパニオンオブジェクト
+   　applyメソッドは省略可能（シンタックスシュガー。糖衣構文）   　基本コンストラクタ
+   　補助コンストラクタ
+   　引数がnullだったらエラー※事前条件を指定する「require」キーワード
+ chap5_3_1
+  　「Option」型　Some、None
+  　「unapply」を使用したパターンマッチ
+  　
+ chap5_3_2
+ 　「caseクラス」でオブクジェクトを簡単にパターンマッチ
+ 　
