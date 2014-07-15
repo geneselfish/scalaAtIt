@@ -6,7 +6,5 @@ class Apple
  * 「Apple」型であればマッチしたと見なします（※isInstanceOfで型のチェックが可能）。
  */
 object Apple {
-	def unapply(a:Any):Boolean = {
-	  a.isInstanceOf[Apple]
-	}
+	def unapply(a:Any):Boolean = a.isInstanceOf[Apple]
 }
