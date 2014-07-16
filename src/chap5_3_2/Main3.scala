@@ -10,6 +10,7 @@ object Main3 {
 
   def main(args: Array[String]): Unit = {
     val apple = Apple("fuji")
+    println(apple)
     val org1 = Orange("DEKOPON")
     val org2 = Orange("ponkan")
     

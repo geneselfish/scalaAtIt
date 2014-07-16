@@ -17,6 +17,7 @@ object Main2 {
     
     matchTest(Orange("DEKOPON"))
     
+    //matchTest(new Apple)
     matchTest(Apple)
     
     matchTest("hello")

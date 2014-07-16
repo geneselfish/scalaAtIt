@@ -1,6 +1,6 @@
 package chap5_3_1
 
-class Orange(val name:String) {
+class Orange private (val name:String) {
 
 }
 /**
