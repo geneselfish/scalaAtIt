@@ -1,3 +1,4 @@
+スケーラブルで関数型でオブジェクト指向なScala入門
 http://www.atmarkit.co.jp/fjava/index/index_scala.html
 scalaAtItプロジェクト
  chap2
@@ -42,4 +43,7 @@ scalaAtItプロジェクト
   　「unapply」を使用したパターンマッチ 　
  chap5_3_2
  　「caseクラス」でオブクジェクトを簡単にパターンマッチ
- 　
+ chap6
+ chap6.foo.bar
+    パッケージ。パッケージオブジェクト。
+ 
