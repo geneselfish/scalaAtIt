@@ -4,7 +4,10 @@ package chap6.sect2_3
  * @author 1134310008768
  *
  */
-class Programmer(name:String, age:Int) extends Engineer {
+class Programmer(name:String, val age:Int) extends Engineer(name) {
+  println("Programmer.name=" + name)
+  println("Programmer.age=" + age)
+  
   /**
    * 抽象メソッドをオーバーライドする場合にはoverrideキーワードはあってもなくても構いません。
    */

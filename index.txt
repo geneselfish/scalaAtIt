@@ -51,4 +51,6 @@ scalaAtItプロジェクト
     アクセス修飾子とアクセス制限
  chap6.sect2_3
     「継承」「抽象クラス」
+ chap6.sect3.sealedmodel
+    シールドクラス
     

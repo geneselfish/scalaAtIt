@@ -1,10 +1,14 @@
 package chap6.sect2_3
 
 /**
- * @author 1134310008768
+ * 抽象クラス。
+ * なお、抽象クラスでフィールドを値なしで宣言すると、それは抽象フィールドとなり、
+ * サブクラスでの値の設定が期待されます。
  *
  */
-abstract class Engineer {
+abstract class Engineer(val name:String) {
+  println("Engineer.name=" + this.name)
+  
   /**
    * 抽象メソッド
    */
