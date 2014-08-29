@@ -54,3 +54,6 @@ scalaAtItプロジェクト
  chap6.sect3.sealedmodel
     シールドクラス
     
+ chap7
+    トレイト
+    
