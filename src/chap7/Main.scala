@@ -1,6 +1,6 @@
 package chap7
 
-object main extends App {
+object Main extends App {
   //ミックスインは定義時だけではなく、インスタンス化のタイミングで行うこともできます。
   val p = new Person("Yoko-chan") with Designer
   p.design
@@ -22,5 +22,5 @@ object main extends App {
     trait A
     trait B
     trait C
-   */
+   */  
 }

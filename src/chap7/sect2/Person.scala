@@ -17,5 +17,5 @@ class Person extends Programmer with Writer {
    * 一番右に指定したトレイトのメソッドではなく、任意のトレイトのメソッドを呼び出したい場合、
    * 以下の形式でメソッドを呼び出します。
    */
-  override def read =super[Programmer].read
+  override def read = super[Programmer].read
 }
