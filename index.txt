@@ -77,3 +77,9 @@ scalaAtItプロジェクト
  chap10
     Scalaの並行処理とアクター、並列コレクション
     
+ chap11.Sect01
+    関数の名前付き引数
+ chap11.Sect02
+    関数の引数の遅延評価。名前渡しパラメータ
+ chap11.Sect02_2
+    
