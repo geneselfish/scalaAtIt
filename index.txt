@@ -82,4 +82,8 @@ scalaAtItプロジェクト
  chap11.Sect02
     関数の引数の遅延評価。名前渡しパラメータ
  chap11.Sect02_2
+    Ruby/Pythonのダックタイピングに代わる構造的部分型  type IO = {・・・
+ chap11.sect03
+    DIをソースファイルだけで実現「自分型アノテーション」　self: MyService =>
+    暗黙の型変換を用いたクラスの拡張が簡単になる「implicit Class」
     
