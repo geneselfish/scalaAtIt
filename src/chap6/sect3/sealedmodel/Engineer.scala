@@ -9,6 +9,6 @@ sealed abstract class Engineer {
 
 }
 
-case class Programmer extends Engineer
-case class Tester extends Engineer
-case class Architect extends Engineer
+case class Programmer() extends Engineer
+case class Tester() extends Engineer
+case class Architect() extends Engineer
